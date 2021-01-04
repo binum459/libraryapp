@@ -1,0 +1,32 @@
+[
+    {
+        "image":"assets/img/sa.png",
+        "author":"Dan Brown",
+        "genre":"Thriller"
+         },
+         {
+            "image":"assets/img/sa.png",
+            "author":"Paulo Coelho",
+            "genre":"Fantasy"
+             },
+             {
+               "image":"assets/img/sa.png",
+                "author":"Robert Kiyosaki",
+                "genre":"Self-help"
+                 },
+                 {
+                  "image":"assets/img/sa.png",
+                    "author":"Chetan Bhagat",
+                    "genre":"Drama"
+                     },
+                     {
+                        "image":"assets/img/sa.png",
+                        "author":"Yuval Noah Harari",
+                        "genre":"Non-Fiction"
+                         },
+                         {
+                           "image":"assets/img/sa.png",
+                            "author":"Stephen Hawking",
+                            "genre":"Science"
+                             }                  
+]
